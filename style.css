@@ -1,0 +1,61 @@
+.header  {
+
+    text-align: center;
+    
+}
+.h2       {
+    text-align: left;
+}
+
+.p1       {
+    color: red
+
+}
+
+.p2        {
+    color: blue
+
+}
+
+.p3         {
+    color:  green
+
+}
+
+.p4         {
+    font-size: 42px;
+
+}
+
+.p5         {
+    font-size: 8px;
+}
+
+.p6         {
+    text-align: center;
+
+}
+
+.p7         {
+    font-weight: bold;
+}
+
+.p8         {
+    font-family:Tahoma;
+}
+
+.p9         {
+    font-size: 42px;
+    font-weight: bold;
+    color:       orange
+}
+
+.styledFont  {
+    color: green;
+}
+
+ img  {
+    border: 5px solid;
+    color: orange;
+}
+
